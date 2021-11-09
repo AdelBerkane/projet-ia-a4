@@ -1,2 +1,8 @@
 # projet-ia-a4
-Data Science project regrouping data preprocessing, model training, testing, validation, and data modification to influence business decisions.
+
+Data Science project regrouping :
+
+* Data preprocessing
+* Model training, testing, validation
+* Data modification to influence business decisions
+
